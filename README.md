@@ -4,5 +4,5 @@ A management system for Private Shopping Consultant
 + Customer Management
 + Order Management
 + Package Management
-+ BI
++ Reporting
 + Purchase List (Mobile)
